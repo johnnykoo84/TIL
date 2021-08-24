@@ -1,2 +1,2 @@
 # TIL
-Collection of Today I Learneds
+Collection of Today I Learns
